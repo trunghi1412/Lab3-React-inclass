@@ -1,0 +1,11 @@
+.green-line{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:  #d0f0c0;
+  border-width: 1px;
+  border-color: green;
+  border-style: solid;
+  font-size: 15px;
+}
+
