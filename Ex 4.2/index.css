@@ -1,0 +1,19 @@
+.alert-line{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:  rgb(158, 10, 10);
+  border-width: 1px;
+  border-color: red;
+  border-style: solid;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+}
+.alert-line:active {
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: blue;
+  
+}
